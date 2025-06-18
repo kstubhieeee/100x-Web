@@ -1,0 +1,6 @@
+{
+  "editor.cursorBlinking": "smooth",
+  "terminal.integrated.suggest.enabled": false,
+  "python.analysis.supportAllPythonDocuments": true,
+  "editor.suggest.showKeywords": false
+}
