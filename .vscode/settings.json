@@ -2,5 +2,24 @@
   "editor.cursorBlinking": "smooth",
   "terminal.integrated.suggest.enabled": false,
   "python.analysis.supportAllPythonDocuments": true,
-  "editor.suggest.showKeywords": false
+  "editor.suggest.showKeywords": false,
+
+  // Prettier settings
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true
 }
